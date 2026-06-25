@@ -1,6 +1,7 @@
 # Báo cáo thực hành MLOps (Wine Quality CI/CD)
 
 *   **Học viên**: Đỗ Trung Đức
+*   **Mã sinh viên**: 2A202600918
 *   **Repository URL**: https://github.com/DoTrungDuc1908/Day21-Track2-CI-CD-for-AI-Systems
 
 ---
